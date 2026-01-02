@@ -1,0 +1,5 @@
+{
+  "name": "Inventaris ukm stimbara UISI",
+  "description": "A web application for students and administrators of UKM STIMBARA to efficiently record, borrow, and return inventory items with transparency and ease of management.",
+  "requestFramePermissions": []
+}
